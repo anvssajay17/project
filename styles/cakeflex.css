@@ -1,0 +1,28 @@
+.cake-flex{
+    display: flex;
+    justify-content:space-between ;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+   
+}
+.cupcake{
+    width: 400px;
+    
+}
+.cupcake1{
+    width: 400px;
+    margin-top: -20px;
+}
+.cup-cake-head{
+    font-size: 30px;
+    color: #262728;
+    margin-top: 20px;
+  
+}
+.cup-cake-para{
+    font-size: 18px;
+    margin-top: 20px;
+    color: #515151;
+    width: 400px;
+}

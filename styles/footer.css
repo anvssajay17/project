@@ -1,0 +1,40 @@
+.footer{
+    height: 600px;
+    background: #515151;
+    
+}
+.footcake{
+   text-align: center;
+   padding-top: 40px;
+}
+.fooimg{
+    width: 200px;
+    
+}
+.footer-flex{
+    display: flex;
+    width: 100%;
+    gap: 40px;
+    margin-top: 50px;
+}
+.footerpara{
+    margin-right: 180px;
+    
+}
+.footerpara1{
+    padding-left: 40px;
+    font-size: 20px;
+    color:  #838383;
+}
+.footag{
+    padding-left:40px;
+    font-size: 40px;
+    color: #fea7b9;
+    padding-top: 40px;
+}
+.copy{
+    align-items: center;
+    margin-top: 130px;
+    color:  #838383;
+    padding-left: 40px;
+}

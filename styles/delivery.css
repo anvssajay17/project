@@ -1,0 +1,165 @@
+.heading-local{
+    
+    width: 400px;
+    font-size: 35px;
+    margin: auto;
+    text-align: center;
+    color: #262728;
+}
+.delivery {
+   margin-top: 100px;
+    
+
+}
+
+
+.open-delivery {
+    display: flex;
+    margin-bottom: 100px;
+   
+}
+
+.left-open {
+padding-left: 200px;
+width: 50%;
+}
+
+.first-open {
+
+}
+
+.open-img {
+    width: 100px;
+}
+
+.second-open {
+    margin-top: 30px;
+
+}
+
+.second-open-para {
+    font-size:25px;
+    margin-bottom: 30px;
+    
+   
+}
+
+.third-open {
+  display: flex;
+  width: 400px;
+  align-items: center;
+  
+}
+.third-open-para {
+    font-size: 18px;
+    width: 400px;
+    color: #515151;
+    margin-bottom: 40px;
+}
+
+
+.view-menu {
+    
+    padding: 15px 30px;
+    background-color: #fea7b9;
+    border: none;
+    border-radius: 2px;
+    margin-right: 30px;
+}
+
+.menu-para {
+
+}
+
+.right-open{
+   width: 520px;
+   height: 200px;
+   border: 2px solid rgb(238, 237, 237);
+   background-color: #fafafa ;
+}
+.first-box{
+  
+   height: 100px;
+   border-bottom: 1px solid rgb(238, 237, 237);
+   
+}
+.box-paraone{
+ font-size: 25px;
+ margin-left: 70px;
+ padding-top: 20px;
+}
+.box-paratwo{
+    font-size: 18px;
+    margin-left: 70px;
+    padding-top: 10px;
+    color: #515151;
+
+}
+.second-box{
+    
+   height: 100px;
+   border-bottom: 1px solid rgb(238, 237, 237);
+  
+}
+.right-open-rate{
+    width: 520px;
+   height: 300px;
+   border: 2px solid rgb(238, 237, 237);
+   background-color: #fafafa ;
+}
+
+
+
+.open-rate{
+  padding-left: 40px;
+  text-align: center;
+  padding-top: 45px;
+  
+}
+.in-rate{
+    padding-right: 80px;
+}
+.in-rate{
+    font-size: 25px;
+}
+.miles{
+    font-weight: bold;
+}
+.right-heli{
+    width: 520px;
+    height: 280px;
+    border: 1px solid rgb(238, 237, 237) ;
+    padding-left: 35px;
+}
+.heli-fpara{
+    width: 380px;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 80px;
+    padding-top: 65px;
+}
+.heli-spara{
+    color: #515151;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.input{
+    padding:15px 30px;
+    margin-left:70px;
+    padding-left: 12px;
+    background-color: #fafafa;
+    border: 1px solid rgb(238, 237, 237);
+
+}
+::placeholder{
+    font-size:20px;
+    
+}
+.check{
+    padding:17px 20px ;
+    border: none;
+    background-color: #fea7b9; 
+    margin-left: -4px;
+}

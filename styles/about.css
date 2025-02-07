@@ -1,0 +1,84 @@
+.main {
+    display: flex;
+    margin-top: 180px;
+}
+
+
+.left-main {
+    width: 46%;
+    padding-left: 150px;
+    
+   
+    
+}
+
+.right-main {
+    width: 54%;
+    margin-left: 140px;
+    margin-top:76px;
+}
+
+
+.friendly {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap:60px;  
+    padding: 10px;
+    margin-top: 40px;
+    max-width: 700px;
+    
+}
+
+.first-about{
+     font-size: 40px;
+     margin-bottom: 30px;
+}
+.second-about{
+    font-size: 18px;
+    margin-bottom: 60px;
+    
+}
+.third-about{
+    margin-bottom: 20px;
+}
+.about-button{
+    padding: 14px 30px;
+    background-color: #fea7b9;
+    border: none;
+    border-radius: 2px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.th-about{
+    font-weight: bold;
+}
+.single{
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border-radius: 50%;
+    background-color: #fea7b9;
+    
+}
+.word{
+
+}
+
+.gf, .vf, .nf, .df, .sf, .pf, .kf{
+    margin-right: 15px;
+    font-size: 14px;
+}
+
+.gf { background-color: #feb3c3; } /* Green - Gluten Friendly */
+.vf { background-color: #c9eaec; } /* Darker Green - Vegan */
+.nf { background-color: #d7d5f9; } /* Light Purple - Nut Free */
+.df { background-color: #cfdfff;; } /* Light Blue - Dairy Free */
+.sf { background-color: #e5f7c5; } /* Light Red - Sugar Free */
+.pf { background-color: #e2caab; } /* Light Blue - Peanut Free */
+.kf { background-color: #facff9; } 
+
+
+
+
+

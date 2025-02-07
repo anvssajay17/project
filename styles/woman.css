@@ -1,0 +1,47 @@
+.woman{
+    display: flex;
+    background:#f5f6f8;
+    height:550px;
+    margin-top: 250px;
+    margin-bottom: 100px;
+}
+.left-woman{
+    width: 50%;
+}
+.right-woman{
+    width: 50%;
+}
+.cake1{
+    width: 95%;
+    padding-left:80px;
+    margin-top: -120px;
+    padding-right: 20px;
+    
+}
+.paras{
+    margin-top: 60px;
+}
+.first-para{
+    font-size: 30px;
+    text-align: center;
+    
+    
+    
+}
+.second-para{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+    color: #515151;
+}
+.img-w{
+    width: 95%;
+    padding-right: 110px;
+    margin-top: -110px;
+}
+.par{
+    margin-top: 60px;
+    padding-right:110px;
+    
+
+}
